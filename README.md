@@ -48,6 +48,7 @@ The total number of videos posted from all 11 US media channels in 2019 is visua
  - Third level: US media also closely follow the things that happened in Syria (441) and North Korean (331).
  
 <img align="center" src="fig/Picture6.png" width="1000px" clear="both"/>
+
 [Interactive mode](https://nbviewer.jupyter.org/github/HaominIsMe/US-views-world/blob/master/plot_attention.ipynb)
 
 I also visualize the averaged sentiment score based on the results of sentiment analysis. Different color in different countries represents the average sentiment score based on videos posted by US media channels. 
@@ -56,6 +57,7 @@ I also visualize the averaged sentiment score based on the results of sentiment 
  - Sudan receives the lowest sentiment score.
 
 <img align="center" src="fig/Picture7.png" width="1000px" clear="both"/>
+
 [Interactive mode](https://nbviewer.jupyter.org/github/HaominIsMe/US-views-world/blob/master/plot_sentiment.ipynb)
 
 # Next
