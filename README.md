@@ -59,7 +59,7 @@ I also visualize the averaged sentiment score based on the results of sentiment 
 
 <img align="center" src="fig/Picture7.png" width="1000px" clear="both"/>
 
-[Interactive mode](https://nbviewer.jupyter.org/github/HaominIsMe/US-views-world/blob/master/plot_setiment.ipynb)
+[Interactive mode](https://nbviewer.jupyter.org/github/HaominIsMe/US-views-world/blob/master/plot_sentiment.ipynb)
 
 # Next
 
